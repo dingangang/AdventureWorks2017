@@ -21,7 +21,7 @@ ubuntu sqlserver sampleData
 ```
 
 ```
- $ sudo mv /home/user/AdventureWorks2017.bak /var/opt/mssql/backup/
+ $ sudo mv /home/%YOUR_USER_NAME%/AdventureWorks2017.bak /var/opt/mssql/backup/
 ```
 
 ## 进入到mssql   enter mssql
