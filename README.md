@@ -8,6 +8,10 @@ ubuntu sqlserver sampleData
 ```
 或者你可以直接从我的库中下载。
 
+```
+  wget https://github.com/dingangang/AdventureWorks2017/raw/master/AdventureWorks2017.bak
+```
+
 ## 移动文件到mssql文件夹   move data to mssql dir
 
 ### 注意自己的路径   watch your path
