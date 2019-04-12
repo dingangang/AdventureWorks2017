@@ -6,7 +6,7 @@ ubuntu sqlserver sampleData
 ```
   wget https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2017.bak
 ```
-或者你可以直接从我的库中下载。
+或者你可以直接从我的库中下载。 OR
 
 ```
   wget https://github.com/dingangang/AdventureWorks2017/raw/master/AdventureWorks2017.bak
